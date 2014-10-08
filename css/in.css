@@ -1,0 +1,467 @@
+.banner {
+	float: left;
+	height: 250px;
+	width: 1004px;
+	margin-top: 16px;
+	overflow: hidden;
+}
+.home .cont .home {
+	float: left;
+	height: auto;
+	width: 1004px;
+	margin-top: 15px;
+}
+.home .cont .home .zuo {
+	float: left;
+	height: auto;
+	width: 740px;
+}
+.home .cont .home .zuo .ti {
+	float: left;
+	height: 35px;
+	width: 740px;
+}
+.home .cont .home .zuo .ti .zto {
+	background-image: url("../images/020z.png")/*tpa=http://www.pycaifu.net/images/020z.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .zuo .ti .zzo {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 35px;
+	font-weight: bold;
+	background-image: url("../images/020f.png")/*tpa=http://www.pycaifu.net/images/020f.png*/;
+	background-repeat: repeat-x;
+	float: left;
+	height: 35px;
+	width: 720px;
+}
+.home .cont .home .zuo .ti .yto {
+	background-image: url("../images/020y.png")/*tpa=http://www.pycaifu.net/images/020y.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .zuo .wm {
+	float: left;
+	height: auto;
+	width: 740px;
+	margin-top: 10px;
+	font-size: 12px;
+	line-height: 25px;
+	background-color: #FAFAFA;
+}
+.home .cont .home .zuo .wm img {
+	float: left;
+	height: 201px;
+	width: 300px;
+	display: block;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.home .cont .home .zuo .wm p {
+	text-align: left;
+	text-indent: 24;
+	float: left;
+	width: 700px;
+	margin-right: 20px;
+	margin-left: 20px;
+	line-height: 22px;
+	height: auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+.home .cont .home .zuo .wm .ss {
+	line-height: 25px;
+	text-align: left;
+	text-indent: 24px;
+	white-space: normal;
+	display: block;
+	float: left;
+	width: 380px;
+	margin-left: 20px;
+	overflow: hidden;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+
+.home .cont .home .ri {
+	float: left;
+	height: auto;
+	width: 250px;
+	margin-left: 14px;
+}
+
+.home .cont .home .yous {
+	float: left;
+	height: auto;
+	width: 250px;
+}
+.home .cont .home .yous .ti {
+	float: left;
+	height: 35px;
+	width: 250px;
+}
+.home .cont .home .yous .ti .zto {
+	background-image: url("../images/020z.png")/*tpa=http://www.pycaifu.net/images/020z.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .yous .ti .zzo {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 35px;
+	font-weight: bold;
+	background-image: url("../images/020f.png")/*tpa=http://www.pycaifu.net/images/020f.png*/;
+	background-repeat: repeat-x;
+	float: left;
+	height: 35px;
+	width: 230px;
+}
+.home .cont .home .yous .ti .yto {
+	background-image: url("../images/020y.png")/*tpa=http://www.pycaifu.net/images/020y.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .yous .tu {
+	float: left;
+	height: 200px;
+	width: 250px;
+	margin-top: 10px;
+}
+
+
+.home .cont .home .youx {
+	float: left;
+	height: auto;
+	width: 250px;
+	margin-top: 10px;
+}
+
+.home .cont .home .youx .ti {
+	float: left;
+	height: 35px;
+	width: 250px;
+}
+.home .cont .home .youx .ti .zto {
+	background-image: url("../images/020z.png")/*tpa=http://www.pycaifu.net/images/020z.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .youx .ti .zzo {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 35px;
+	font-weight: bold;
+	background-image: url("../images/020f.png")/*tpa=http://www.pycaifu.net/images/020f.png*/;
+	background-repeat: repeat-x;
+	float: left;
+	height: 35px;
+	width: 230px;
+}
+.home .cont .home .youx .ti .yto {
+	background-image: url("../images/020y.png")/*tpa=http://www.pycaifu.net/images/020y.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	width: 10px;
+}
+.home .cont .home .youx .fangshi {
+	float: left;
+	height: auto;
+	width: 250px;
+	font-size: 12px;
+	background-color: #FAFAFA;
+	margin-top: 10px;
+}
+.home .cont .home .youx .fangshi ul {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	list-style-type: none;
+}
+.home .cont .home .youx .fangshi ul li {
+	line-height: 30px;
+	text-align: left;
+	white-space: normal;
+	float: left;
+	width: 230px;
+	padding-right: 10px;
+	padding-left: 10px;
+	overflow: hidden;
+}
+.home .cont {
+	float: left;
+	height: auto;
+	width: 1004px;
+	margin-top: 10px;
+}
+.home .cont .bn {
+	float: left;
+	height: auto;
+	width: 1004px;
+}
+.home .cont .zoo {
+	float: left;
+	height: auto;
+	width: 250px;
+}
+.home .cont .zoo .toi {
+	font-size: 14px;
+	line-height: 35px;
+	font-weight: bold;
+	color: #333;
+	background-image: url("../images/020.png")/*tpa=http://www.pycaifu.net/images/020.png*/;
+	background-repeat: no-repeat;
+	text-align: left;
+	text-indent: 12px;
+	float: left;
+	height: 35px;
+	width: 250px;
+	margin-top: 10px;
+}
+.home .cont .zoo .dds {
+	float: left;
+	height: 200px;
+	width: 250px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.home .cont .zoo .lxmm {
+	float: left;
+	height: auto;
+	width: 228px;
+	border: 1px solid #CCC;
+	background-color: #FFF;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.home .cont .zoo .lxmm ul {
+	margin: 0px;
+	padding: 0px;
+}
+.home .cont .zoo .lxmm ul li {
+	font-size: 12px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 14px;
+	float: left;
+	height: auto;
+	width: 228px;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.home .cont .zoo .lxmm ul li .cu {
+	font-weight: bold;
+}
+
+
+.home .cont .yoo {
+	float: left;
+	height: auto;
+	width: 720px;
+	margin-left: 14px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 12px;
+	background-color: #FFF;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+.home .cont .yoo .tti {
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #333;
+	float: left;
+	height: auto;
+	width: 720px;
+	margin-bottom: 7px;
+	padding-top: 6px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+	text-align: center;
+}
+.home .cont .yoo .llm {
+	background-image: url("../images/cv1.jpg")/*tpa=http://www.pycaifu.net/images/cv1.jpg*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 455px;
+	width: 720px;
+}
+.home .cont .yoo .llm .tti{
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #333;
+	float: left;
+	height: auto;
+	width: 720px;
+	margin-bottom: 15px;
+	padding-top: 6px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+	text-align: left;
+	text-indent: 333px;
+}
+.home .cont .yoo .llm p {
+	font-size: 12px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 222px;
+	white-space: nowrap;
+	float: left;
+	height: 30px;
+	width: 720px;
+}
+
+.home .cont .yoo p {
+	line-height: 30px;
+	text-align: left;
+	text-indent: 24px;
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: hidden;
+	height: auto;
+	display: block;
+	width: 720px;
+}
+.home .cont .yoo .cu {
+	font-weight: bold;
+	line-height: 30px;
+	white-space: nowrap;
+	float: left;
+	height: 30px;
+	width: 720px;
+	color: #000;
+}
+.home .cont .yoo ul {
+	margin: 0px;
+	padding-top: 88px;
+	padding-right: 0px;
+	padding-bottom: 355px;
+	padding-left: 0px;
+}
+.home .cont .yoo ul li {
+	font-size: 12px;
+	line-height: 30px;
+	float: left;
+	height: 30px;
+	width: 720px;
+	text-align: left;
+	text-indent: 98px;
+	white-space: nowrap;
+}
+.home .cont .yoo .tto {
+	float: left;
+	height: 205px;
+	width: 720px;
+}
+.home .cont .yoo .liuy {
+	float: left;
+	height: auto;
+	width: 718px;
+	border: 1px solid #CCC;
+	padding-bottom: 156px;
+}
+.home .cont .yoo .liuy ul {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+.home .cont .yoo .liuy ul li {
+	font-size: 12px;
+	line-height: 30px;
+	float: left;
+	height: 30px;
+	width: 718px;
+	text-align: left;
+}
+.home .cont .yoo .liuy ul .woyy {
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #333;
+	background-color: #A6D2FB;
+	text-align: left;
+	text-indent: 15px;
+	float: left;
+	height: 30px;
+	width: 718px;
+	margin-bottom: 15px;
+}
+.home .cont .yoo .liuy ul li .qian {
+	font-size: 12px;
+	font-weight: bold;
+	color: #F00;
+	float: left;
+	height: 30px;
+	width: 156px;
+	margin-left: 2px;
+}
+.home .cont .yoo .liuy ul li .kk input {
+	float: left;
+	height: auto;
+	width: 355px;
+	margin-top: 3px;
+	margin-left: 6px;
+}
+.home .cont .yoo .liuy ul li .hui {
+	font-size: 12px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #333;
+	float: left;
+	height: 30px;
+	width: 156px;
+	margin-left: 2px;
+}
+.home .cont .yoo .liuy ul li .kd input {
+	float: left;
+	height: 122px;
+	width: 355px;
+	margin-top: 3px;
+	margin-left: 6px;
+}
+.home .cont .yoo .liuy ul li .tiij input {
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	background-image: url("../images/009.png")/*tpa=http://www.pycaifu.net/images/009.png*/;
+	background-repeat: no-repeat;
+	float: left;
+	height: 30px;
+	width: 80px;
+	margin-top: 112px;
+	margin-left: 305px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.qq a:link, a:visited  
+{
+		
+}
